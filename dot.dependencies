@@ -18,5 +18,11 @@
    "repository":  "DirtyUnicorns/android_vendor_google",
    "target_path": "vendor/google",
    "branch":      "p9x"
+ },
+ {
+   "remote": "gitlab",
+   "repository": "DirtyUnicorns/android_vendor_pixelgapps",
+   "target_path": "vendor/pixelgapps",
+   "branch": "p9x"
  }
 ]
